@@ -10,4 +10,4 @@ def convertir_lista_a_tupla(lista):
     return tuple(lista)
 # Utiliza una función para convertir 
 
-print(convertir_lista_a_tupla(productos))
+convertir_lista_a_tupla(productos)
